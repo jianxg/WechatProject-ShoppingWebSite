@@ -1,0 +1,11 @@
+C:\Users\ygy\documents\visual studio 2015\Projects\ShoppingWebSite\BLL\bin\Debug\BLL.dll
+C:\Users\ygy\documents\visual studio 2015\Projects\ShoppingWebSite\BLL\bin\Debug\BLL.pdb
+C:\Users\ygy\documents\visual studio 2015\Projects\ShoppingWebSite\BLL\bin\Debug\DAL.dll
+C:\Users\ygy\documents\visual studio 2015\Projects\ShoppingWebSite\BLL\bin\Debug\Model.dll
+C:\Users\ygy\documents\visual studio 2015\Projects\ShoppingWebSite\BLL\bin\Debug\Common.dll
+C:\Users\ygy\documents\visual studio 2015\Projects\ShoppingWebSite\BLL\bin\Debug\DAL.pdb
+C:\Users\ygy\documents\visual studio 2015\Projects\ShoppingWebSite\BLL\bin\Debug\Model.pdb
+C:\Users\ygy\documents\visual studio 2015\Projects\ShoppingWebSite\BLL\bin\Debug\Common.pdb
+C:\Users\ygy\documents\visual studio 2015\Projects\ShoppingWebSite\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\ygy\documents\visual studio 2015\Projects\ShoppingWebSite\BLL\obj\Debug\BLL.dll
+C:\Users\ygy\documents\visual studio 2015\Projects\ShoppingWebSite\BLL\obj\Debug\BLL.pdb
